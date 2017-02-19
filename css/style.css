@@ -358,7 +358,7 @@ body {
   text-align: center;
   height: 40px;
   position: absolute;
-  background: rgba(140,140,140,0.5);
+  background: rgba(140,140,140,0.8);
   top: 55%;
   left: 0;
   margin-top: -20px;
@@ -374,6 +374,7 @@ body {
   font-size: 40px;
   line-height: 40px;
   letter-spacing: 2px;
+  padding:10px auto;
 }
 #subtitle {
   font-size: 16px;
